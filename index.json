@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "djangorestframework-simplejwt",
+  "versions": [
+    {
+      "commit": "a7cb077ea0809f78cc6a99cb6825ab7594eae627",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:35:33.518639+00:00"
+    }
+  ]
+}
